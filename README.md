@@ -89,7 +89,7 @@ Backend разработчик занимается тем, что пишет к
 
 |                                            |                                   |
 | ------------------------------------------ | --------------------------------- |
-| ![[Pasted image 20240806080750.png \|200]] | Таненбаум Э. "Компьютерные сети"  |
+| <img src="https://github.com/Lewbertsklol/python-backend-roadmap/blob/main/Python%20Backend%20Roadmap/Pasted%20image%2020240806080750.png?raw=true" width="200"> | Таненбаум Э. "Компьютерные сети"  |
 
 На тему компьютерных сетей достаточно много книг, если не понравится эта, можно выбрать из дополнительных материалов
 
@@ -99,8 +99,8 @@ Backend разработчик занимается тем, что пишет к
 
 |                                            |                                                                                                                                |
 | ------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------ |
-| ![[Pasted image 20240806081101.png \|200]] | Kurose J.F., Ross K.W. "Computer Networking: A Top-Down Approach" (есть на русском языке, но более свежая только на аглийском) |
-| ![[Pasted image 20240806081207.png \|200]] | Craig Hunt "TCP/IP network administration" (есть на русском языке)                                                             |
+| <img src="https://github.com/Lewbertsklol/python-backend-roadmap/blob/main/Python%20Backend%20Roadmap/Pasted%20image%2020240806081101.png?raw=true" width="200"> | Kurose J.F., Ross K.W. "Computer Networking: A Top-Down Approach" (есть на русском языке, но более свежая только на аглийском) |
+| <img src="https://github.com/Lewbertsklol/python-backend-roadmap/blob/main/Python%20Backend%20Roadmap/Pasted%20image%2020240806081207.png?raw=true" width="200"> | Craig Hunt "TCP/IP network administration" (есть на русском языке)                                                             |
 
 
 ### Операционные системы.
@@ -140,8 +140,8 @@ in progress...
 
 |                                            |                                                                                                                 |
 | ------------------------------------------ | --------------------------------------------------------------------------------------------------------------- |
-| ![[Pasted image 20240806081803.png \|200]] | Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides "Gang of Four Design Patterns" (есть на русском языке) |
-| ![[Pasted image 20240806081944.png \|200]] | Eric Freeman, Elisabeth Robson, Bert Bates, Kathy Sierra "Head First Design Patterns" (есть русская версия)     |
+| <img src="https://github.com/Lewbertsklol/python-backend-roadmap/blob/main/Python%20Backend%20Roadmap/Pasted%20image%2020240806081803.png?raw=true" width="200"> | Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides "Gang of Four Design Patterns" (есть на русском языке) |
+| <img src="https://github.com/Lewbertsklol/python-backend-roadmap/blob/main/Python%20Backend%20Roadmap/Pasted%20image%2020240806081944.png?raw=true" width="200"> | Eric Freeman, Elisabeth Robson, Bert Bates, Kathy Sierra "Head First Design Patterns" (есть русская версия)     |
 
 Gang of Four Design Patterns cчитается библией в мире паттернов проектирование. Чтиво уже не такое увлекательное, но полезное. А вот книга серии headfirst читается довольно легко и познакомит с большим количеством паттернов. Обе книги демонстрируют паттерны НЕ на языке Python, но зато являются лучшими в своей теме
 
