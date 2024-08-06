@@ -48,7 +48,7 @@
 
 |                                            |                                                                          |
 | ------------------------------------------ | ------------------------------------------------------------------------ |
-| ![[Pasted image 20240806081407.png \|200]] | Matthew Fowler "Python Concurrency with asyncio" (есть на русском языке) |
+| <img src="https://github.com/Lewbertsklol/python-backend-roadmap/blob/main/Python%20Backend%20Roadmap/Pasted%20image%2020240806074650.png?raw=true" width="200"> | Matthew Fowler "Python Concurrency with asyncio" (есть на русском языке) |
 
 Тема асинхронного программирования достаточно сложная. Еще сложнее - найти хороший материал по ней. Данная книга является чуть ли не единственной в своем роде. [Вариант "посмотреть" на YouTube](https://www.youtube.com/watch?v=KRrcZ805G08) и [вторая часть](https://www.youtube.com/watch?v=IkThuoW-fOM)
 
