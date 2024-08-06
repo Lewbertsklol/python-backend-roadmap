@@ -21,7 +21,7 @@
 
 |                                             |                                    |
 | :------------------------------------------ | ---------------------------------: |
-| [](https://github.com/Lewbertsklol/python-backend-roadmap/blob/main/Python%20Backend%20Roadmap/Pasted%20image%2020240806071842.png?raw=true) | R. Murphy "English Grammar In Use" |
+| ![alttext](https://github.com/Lewbertsklol/python-backend-roadmap/blob/main/Python%20Backend%20Roadmap/Pasted%20image%2020240806071842.png?raw=true) | R. Murphy "English Grammar In Use" |
 
 Справочник  по грамматике английского языка. По каждой теме языка дано небольшое описание и упражнения. Он не подойдет тем, у кого нет знаний английского языка совсем, но главное что он делает - даёт список тем грамматики, некоторые из которых можно пропускать, как например "Present Simple", а по некоторым - поискать дополнительные материалы и разобраться самому. 
 
