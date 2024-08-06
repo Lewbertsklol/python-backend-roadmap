@@ -140,8 +140,8 @@ in progress...
 
 ##### Основные материалы:
 
-|                                            |                                                                                                                 |
-| ------------------------------------------ | --------------------------------------------------------------------------------------------------------------- |
+|                                                                                                                                                                  |                                                                                                                 |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- |
 | <img src="https://github.com/Lewbertsklol/python-backend-roadmap/blob/main/Python%20Backend%20Roadmap/Pasted%20image%2020240806081803.png?raw=true" width="200"> | Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides "Gang of Four Design Patterns" (есть на русском языке) |
 | <img src="https://github.com/Lewbertsklol/python-backend-roadmap/blob/main/Python%20Backend%20Roadmap/Pasted%20image%2020240806081944.png?raw=true" width="200"> | Eric Freeman, Elisabeth Robson, Bert Bates, Kathy Sierra "Head First Design Patterns" (есть русская версия)     |
 
