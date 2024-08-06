@@ -145,16 +145,17 @@ in progress...
 | <img src="https://github.com/Lewbertsklol/python-backend-roadmap/blob/main/Python%20Backend%20Roadmap/Pasted%20image%2020240806081803.png?raw=true" width="200"> | Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides "Gang of Four Design Patterns" (есть на русском языке) |
 | <img src="https://github.com/Lewbertsklol/python-backend-roadmap/blob/main/Python%20Backend%20Roadmap/Pasted%20image%2020240806081944.png?raw=true" width="200"> | Eric Freeman, Elisabeth Robson, Bert Bates, Kathy Sierra "Head First Design Patterns" (есть русская версия)     |
 
-Gang of Four Design Patterns cчитается библией в мире паттернов проектирование. Чтиво уже не такое увлекательное, но полезное. А вот книга серии headfirst читается довольно легко и познакомит с большим количеством паттернов. Обе книги демонстрируют паттерны НЕ на языке Python, но зато являются лучшими в своей теме
+Gang of Four Design Patterns cчитается библией в мире паттернов проектирование - не самая легкая книга, зато самая признанная. А вот книга серии headfirst читается довольно легко и познакомит с большим количеством паттернов. Обе книги демонстрируют паттерны НЕ на языке Python, но зато являются лучшими в своей теме
 
 
-### Фреймворки Python:\
+### Фреймворки Python:
 
 Без фреймворков сейчас не обходится ни одно современное приложение, поэтому знание данного инструмента такая же необходимость, как и другие темы. На данный момент всего 2 популярных фреймворка для backend разработки Django (и его расширение Django Rest Framework) и FastAPI. Конечный выбор остается за вами, но именно django поможет собрать воедино представление о том что должно быть в backend приложении, поэтому больше подходит новичкам, т.к. FastAPI довольно узконаправленный фреймворк со своей задачей 
 
 ##### Основные материалы:
 
 [Сергей Балакирев: Добрый, добрый Django](https://www.youtube.com/watch?v=oBU83uojltE&list=PLA0M1Bcd0w8yU5h2vwZ4LO7h1xt8COUXl) - курс по фреймворку Django
+
 [Сергей Балакирев: Уроки по DRF](https://www.youtube.com/watch?v=i-uvtDKeFgE&list=PLA0M1Bcd0w8xZA3Kl1fYmOH_MfLpiYMRs) - курс для построения API на DRF
 
 
